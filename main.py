@@ -128,3 +128,5 @@ if __name__ == "__main__":
     game = BattleshipGame()  
     game.play()
     
+
+# Тест
